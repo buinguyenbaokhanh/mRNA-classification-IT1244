@@ -1,1 +1,1 @@
-# mRNA-classification-IT1244
+# mRNA-classification-IT1244-team20
